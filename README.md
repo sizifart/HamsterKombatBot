@@ -1,0 +1,2 @@
+# HamsterKombatBot
+HamsterKombatBot App AutoClicker
