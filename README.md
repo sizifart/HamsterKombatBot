@@ -79,8 +79,7 @@ Before you begin, make sure you have the following installed:
 3. Record the API_ID and API_HASH provided after registering your application in the .env file.
 
 ## Auto Install/Run
-- Click on Install.bat to automatically install the required dependencies 
-- Then click on START.bat to run the project
+- Click on RUN.bat to automatically install the required dependencies and run the project
 
 ## Menual Install/Run
 1. Install the required dependencies:
