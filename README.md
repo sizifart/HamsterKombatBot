@@ -93,6 +93,18 @@ Before you begin, make sure you have the following installed:
    ```bash
    python main.py
    ```
+
+## Install/Run into Phone
+# Termux Setup 
+
+[Link about python and pip on Termux](https://wiki.termux.com/wiki/Python) that comes with the pkg python
+
+```bash
+git clone https://github.com/sizifart/HamsterKombatBot.git
+cd HamsterKombatBot
+pip3 install -r requirements.txt
+chmod +x main.py
+```
  
 # Telegram Channel
 
